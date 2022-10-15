@@ -1,0 +1,12 @@
+-IC:\Users\FRDEMOLINSM\OneDrive - Tetra Pak\Dev\SDT
+-IC:\Users\FRDEMOLINSM\OneDrive - Tetra Pak\Dev\SDL2-2.0.22\x86_64-w64-mingw32\include\SDL2
+-IC:\Users\FRDEMOLINSM\OneDrive - Tetra Pak\Dev\SDL2_ttf-2.20.0\x86_64-w64-mingw32\include\SDL2
+-IC:\TDM-GCC-64\lib\gcc\x86_64-w64-mingw32\10.3.0\include\c++
+-IC:\TDM-GCC-64\lib\gcc\x86_64-w64-mingw32\10.3.0\include\c++\x86_64-w64-mingw32
+-IC:\TDM-GCC-64\lib\gcc\x86_64-w64-mingw32\10.3.0\include\c++\backward
+-IC:\TDM-GCC-64\lib\gcc\x86_64-w64-mingw32\10.3.0\include
+-IC:\TDM-GCC-64\include
+-IC:\TDM-GCC-64\lib\gcc\x86_64-w64-mingw32\10.3.0\include-fixed
+-IC:\TDM-GCC-64\x86_64-w64-mingw32\include
+-target
+x86_64-w64-mingw32

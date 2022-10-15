@@ -1,0 +1,11 @@
++ BUG: PushState must drop the new state if the constructor fails
++ Revamp error handling (print  SDL errors, export error strings to make anyone able to display them)
++ Make Error code consistent
++ Use an enum for the error codes
++ if a log file contains more than 8191 entries, the program triggers an access violation
++ RawData/FilteredData really useful?
++ use SDL/TTF_GetError()
+- Use a "color profil" for the UI
+- use different cursors for zoom/pan
+- add a CASCADE_VERTICAL_ALIGNED option, to adjust the size of the vertical buttons
+- correctly handle states: wait for the run() method to be terminated before launching another state
